@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# project specific
+
+sounds
+
+gameplay/*.mp4
+
+outputs/*.mp4
+
+temp/*.mp3
+temp/*.png
