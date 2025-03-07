@@ -26,6 +26,15 @@ After cloning this repo.
 
 ```python main.py "./outputs/example.mp4" "this is the title argument" "this is the content argument"```
 
+## Note 
+
+Tested on:
+
+- Windows 11 with python 3.13.2 
+
+- Ubuntu 24.04 with python 3.12.3 (using virtual enviroment)
+
+On linux(Ubuntu), make sure the ```[output filename]``` doens't exist. Moviepy for some reason has problems overwriting a file on linux.
 
 ## Project stucture
 
